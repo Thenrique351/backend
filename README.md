@@ -44,7 +44,7 @@ Salve!
 - git checkout tiago
 - Executar o comando ```docker-compose up```
 - Acessar o link fornecido ou uma das opções abaixo:
-    http://127.0.0.1:8000/docs
-    http://localhost:8000/docs 
+    - http://127.0.0.1:8000/docs
+    - http://localhost:8000/docs 
 - Através do /docs testar as funcionalidades em Post(inserir filme), get filmes(exibir lista) e get filme {nome do filme}(procurar filme pelo nome)
 
