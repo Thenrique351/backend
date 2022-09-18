@@ -35,3 +35,16 @@ Não é obrigatório utilizar todas as as tecnologias sugeridas, mas será um di
 Qualquer dúvida / sugestão / melhoria / orientação adicional só enviar email para hendrix@wattio.com.br
 
 Salve!
+
+
+#### Como começar?
+
+- Após baixar os arquivos, na mesma pasta abrir o terminal
+- ```git clone https://github.com/Thenrique351/backend.git```
+- git checkout tiago
+- Executar o comando ```docker-compose up```
+- Acessar o link fornecido ou uma das opções abaixo:
+    http://127.0.0.1:8000/docs
+    http://localhost:8000/docs 
+- Através do /docs testar as funcionalidades em Post(inserir filme), get filmes(exibir lista) e get filme {nome do filme}(procurar filme pelo nome)
+
